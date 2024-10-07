@@ -1,5 +1,7 @@
 # yoga_page
 This page showcases a Yoga Experience Platform, featuring two sections. The first section introduces the platform with a headline, image, brief description, and a "Get Started" button. The second section provides details on different types of yoga, like Acro yoga, Vinyasa, Hatha, and Kundalini, each accompanied by images and descriptions, with a "Back" button to return to the previous section. It uses Bootstrap for responsive design and structured layout.
+# Feature enhancement
+To improve the Yoga Experience Platform, interactive video tutorials for each yoga type could be added. A progress tracker would help users set and monitor their fitness goals. Additionally, offering personalized yoga plans, live chat with instructors, and options to share achievements on social media would enhance user engagement and support.
   # Refer to the below image
 ![yoga-output-v2](https://github.com/user-attachments/assets/ac707679-011e-4c4d-8ae8-288c5aa4f83e)
   # Design Files:
